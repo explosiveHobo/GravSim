@@ -1,5 +1,4 @@
-# GravSim
-A 2D Gravitation Simulator
+# GravSim - A 2D Gravitation Simulator
 
 FEATURES
 
