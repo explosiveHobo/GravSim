@@ -32,5 +32,6 @@ KNOWN PROBLEMS
 
 - Font not loading (because I didn't include the code to read it in yet :p)
 
+Example Collision
 
 ![Alt Text](collide.gif)
