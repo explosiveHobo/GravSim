@@ -31,3 +31,6 @@ KNOWN PROBLEMS
 - Lag spikes when asteroids rapidly combine to form planets
 
 - Font not loading (because I didn't include the code to read it in yet :p)
+
+
+![Alt Text](collide.gif)
