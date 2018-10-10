@@ -1,7 +1,7 @@
 # gravsim
 A 2D Gravitation Simulator
 
-  FEATURES
+FEATURES
 
 - Hard coded physics engine
 
@@ -21,9 +21,13 @@ A 2D Gravitation Simulator
 - You can click 'S' to save a serialized copy of all bodies and their info, then load it later with 'L'
 
 
-  KNOWN PROBLEMS
+
+KNOWN PROBLEMS
   
 - Clickboxes for bodies, particularly very small or very large ones, being too big
+
 - Fullscreen mode acting wonky on some machines
+
 - Lag spikes when asteroids rapidly combine to form planets
-- Font not loading (because I actually didn't include the code to read it in yet :p)
+
+- Font not loading (because I didn't include the code to read it in yet :p)
