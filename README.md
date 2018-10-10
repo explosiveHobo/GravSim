@@ -6,6 +6,8 @@ FEATURES
 - Hard coded physics engine
 
 - Data visualization for selected orbital bodies
+  - If a body is selected by left clicking AND it is the only selected body, its Vx, Vy, mass, and potential will be displayed
+  - This data can otherwise be obtained for any body by hovering the mouse over it
 
 - Right click and hold for creation of new bodies + manipulation of existing ones 
   - The longer you hold the button, you larger the created body will be
@@ -29,6 +31,8 @@ KNOWN PROBLEMS
 - Fullscreen mode acting wonky on some machines
 
 - Lag spikes when asteroids rapidly combine to form planets
+
+- Very rarely, the simulator will crash upon a collision, especially if there already exist many bodies
 
 - Font not loading (because I didn't include the code to read it in yet :p)
 
